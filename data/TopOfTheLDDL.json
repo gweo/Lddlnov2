@@ -1,0 +1,43 @@
+{
+    "id": 150198194,
+    "name": "Top Of The LDDL",
+    "author": "gweogd",
+    "creators": ["gweogd"],
+    "verifier": "gweogd",
+    "type": "Tiny",
+    "verification": "https://youtu.be/K-eg3INDnUk?si=5zNO8LW1pwA_-nYl",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [ 
+        {
+            "user": "Earl",
+            "link": "https://youtu.be/ZCPLpbSE58E",
+            "percent": 100,
+            "hz": "10/18/2026"
+        },     
+        {
+            "user": "Sinan",
+            "link": "https://youtu.be/wk9m9FWxjSc",
+            "percent": 100,
+            "hz": "10/19/2026"
+        },
+        {
+            "user": "Watoh",
+            "link": "https://medal.tv/games/geometry-dash/clips/nPnEjfhTV9iBlLPTC?invite=cr-MSxPOGwsNDMxOTM1MzA2",
+            "percent": 100,
+            "hz": "10/30/2026"
+        },
+        {
+            "user": "cluwzz",
+            "link": "https://medal.tv/games/geometry-dash/clips/nQmiZj5JrLUx884NK?invite=cr-MSxDTlQsNDIxNTMwNDMz",
+            "percent": 100,
+            "hz": "11/1/26"
+        },
+        {
+            "user": "Kinder",
+            "link": "https://youtu.be/f8Fln1jjex0?si=XmzwC2lRjZ8t7Qqr",
+            "percent": 100,
+            "hz": "11/1/2026"
+        }
+    ]
+}

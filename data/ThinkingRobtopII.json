@@ -1,0 +1,25 @@
+{
+    "id": 147871659,
+    "name": "Thinking Robtop II",
+    "author": "chonxamGD",
+    "creators": ["chonxamGD"],
+    "verifier": "cluwzz",
+    "type": "Long",
+    "verification": "https://youtu.be/hPFwj25lOvc",
+    "percentToQualify": "54",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Earl",
+            "link": "https://www.youtube.com/watch?v=ROhf7ldqTGg",
+            "percent": 100,
+            "hz": "10/4/2026"
+        },
+        {
+            "user": "Watoh",
+            "link": "https://medal.tv/games/geometry-dash/clips/nPjwmJWXD2hoqkVGa?invite=cr-MSxuS0MsNDMxOTM1MzA2",
+            "percent": 100,
+            "hz": "10/30/2026"
+        }
+    ]
+}

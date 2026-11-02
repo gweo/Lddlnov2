@@ -1,0 +1,55 @@
+{
+    "id": 147055362,
+    "name": "decode wavex2",
+    "author": "Blueish2762",
+    "creators": ["Blueish2764"],
+    "verifier": "Sinan",
+    "type": "Long",
+    "verification": "https://youtu.be/gd6tSL9X3Xc?si=CzZi2cdQp4LB0qUn",
+    "percentToQualify": "63",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user":"Lukas",
+            "link": "https://youtu.be/j-7UVnXEDEE?feature=shared",
+            "percent": 100,
+            "hz": "8/30/2026"
+        },      
+        {
+            "user": "KayogreGD",
+            "link": "https://youtu.be/4FyYfw4T1LA?si=kKA9Ak0D2uDS-3VG",
+            "percent": 100,
+            "hz": "8/31/2026"
+        },   
+        {
+            "user": "Lemon",
+            "link": "https://youtu.be/M1uci6HEXhw?si=4htbvWwCDSpupkHg",
+            "percent": 100,
+            "hz": "9/5/2026"
+        },
+        {
+            "user": "fev",
+            "link": "https://youtu.be/tGHCzq55KGQ?si=SrQvdI9qwy9zSezp",
+            "percent": 100,
+            "hz": "9/6/2026"
+        },
+        {
+            "user": "Earl",
+            "link": "https://youtu.be/jyfTm7jS-Rs",
+            "percent": 100,
+            "hz": "9/20/2026"
+        },
+        {
+            "user": "gweogd",
+            "link": "https://youtu.be/4lmVfXeR7gU?si=uWUcrxic7MQbEv1v",
+            "percent": 100,
+            "hz": "10/24/2026"
+        },
+        {
+            "user": "cluwzz",
+            "link": "https://medal.tv/games/geometry-dash/clips/nQmvCJYQiEoBam10Y?invite=cr-MSx2ZlgsNDIxNTMwNDMz",
+            "percent": 100,
+            "hz": "11/1/26"
+        }
+    ]
+}

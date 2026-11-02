@@ -1,0 +1,31 @@
+{
+    "id": 151125930,
+    "name": "femt (GWeoGG)",
+    "author": "GWeoGG",
+    "creators": ["GWeoGG"],
+    "verifier": "gweogd",
+    "type": "Short",
+    "verification": "https://youtu.be/0PKaRzRKE8I?si=DdIirv3P9eVbiUbr",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Watoh",
+            "link": "https://medal.tv/games/geometry-dash/clips/nPnEjfhTV9iBlLPTC?invite=cr-MSxPOGwsNDMxOTM1MzA2",
+            "percent": 100,
+            "hz": "10/30/2026"
+        },
+        {
+            "user": "cluwzz",
+            "link": "https://medal.tv/games/geometry-dash/clips/nQmiZj5JrLUx884NK?invite=cr-MSxDTlQsNDIxNTMwNDMz",
+            "percent": 100,
+            "hz": "11/1/26"
+        },
+        {
+            "user": "Kinder",
+            "link": "https://youtu.be/1tbJzjaI91o?si=-yxdDq0AnrPOGtAa",
+            "percent": 100,
+            "hz": "11/1/26"
+        }
+    ]
+}

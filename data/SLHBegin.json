@@ -1,0 +1,25 @@
+{
+    "id": 151428372,
+    "name": "Slaughterhouse Begin",
+    "author": "GWeoGG",
+    "creators": ["GWeoGG, IcEDCave"],
+    "verifier": "gweogd",
+    "type": "Short",
+    "verification": "https://youtu.be/MBRXVho6qQ8?si=pb3AMEi4aQkT23GZ",
+    "percentToQualify": "58",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "cluwzz",
+            "link": "https://www.youtube.com/watch?v=s1-eP7EpT-c",
+            "percent": 100,
+            "hz": "11/1/2026"
+        },
+        {
+            "user": "Watoh",
+            "link": "https://medal.tv/games/geometry-dash/clips/nQwTQwebMdBcOMNJO",
+            "percent": 100,
+            "hz": "11/1/2026"
+        }
+    ]
+}
